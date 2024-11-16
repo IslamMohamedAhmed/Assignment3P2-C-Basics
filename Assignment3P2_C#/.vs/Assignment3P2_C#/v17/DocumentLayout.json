@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# Basics\\Assignment3P2 C# With demo\\Assignment3P2 C# With demo\\Assignment3P2_C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B9D2F1C-8805-4785-9338-4A4C8E2D9351}|Assignment3P2_C#.csproj|e:\\route course backend asp .net\\assignments solution\\c# basics\\assignment3p2 c# with demo\\assignment3p2 c# with demo\\assignment3p2_c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B9D2F1C-8805-4785-9338-4A4C8E2D9351}|Assignment3P2_C#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# Basics\\Assignment3P2 C# With demo\\Assignment3P2 C# With demo\\Assignment3P2_C#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\Route Course Backend ASP .NET\\Assignments Solution\\C# Basics\\Assignment3P2 C# With demo\\Assignment3P2 C# With demo\\Assignment3P2_C#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAJEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:42:37.471Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
